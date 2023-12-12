@@ -49,4 +49,8 @@ Luna from AskBCS helped me with the following code:
     y_res["loan_status"].value_counts()
 
 
+////////////////////////////////////////////
+Credit Risk Analysis Report:
+////////////////////////////////////////////
+
 
